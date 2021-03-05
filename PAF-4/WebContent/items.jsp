@@ -38,7 +38,7 @@ if (request.getParameter("itemID") != null)
 <div class="container">
 <div class="row">
 <div class="col">
-		<h1>Items Management</h1>
+	<h1>Items Management</h1>
 <form method="post" action="items.jsp">
 Item code: <input name="itemCode" type="text" class="form-control"><br>
 Item name: <input name="itemName" type="text" class="form-control"><br>
